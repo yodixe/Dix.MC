@@ -1,0 +1,20 @@
+/* src/App.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  button {
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  

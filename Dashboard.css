@@ -1,0 +1,25 @@
+/* src/components/Dashboard.css */
+.dashboard {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 250px;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .sidebar a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    margin: 15px 0;
+  }
+  
+  .content {
+    padding: 20px;
+    flex-grow: 1;
+  }
+  
